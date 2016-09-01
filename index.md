@@ -21,5 +21,12 @@ We _will_ change one file within `_includes/`; see below.
 
 ### Edit the `_config.yml` file
 
+~~~~~~~~
+public class StringFormat { 
+	public static void main() {
+		System.out.println("Hello world");
+	}
+}
+~~~~~~~~
 
 ---
