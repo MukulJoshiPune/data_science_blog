@@ -29,4 +29,4 @@ Intermediate:
 :  
 ---
 
-This site uses [kramdown](http://kramdown.gettalong.org/) and $$\mathbf{x}_1$$
+This site uses [kramdown](http://kramdown.gettalong.org/) and $$ \LaTeX $$
