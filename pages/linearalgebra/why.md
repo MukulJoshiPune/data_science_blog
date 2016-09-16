@@ -4,7 +4,7 @@ title: Why should I know Linear Algebra
 tagline: Linear Algebra Basics
 ---
 
-Here is a simple understanding of that why. 
+Here is a simple answer to that why. 
 
 * We humans are limited in our capability of understanding :-) however we are capable enough to solve and understand Linear equations. 
 * Many of the real world problems are non linear. 
