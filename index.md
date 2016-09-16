@@ -27,5 +27,6 @@ Basics
 
 Intermediate:
 :  
-
 ---
+
+This site uses [kramdown][http://kramdown.gettalong.org/] and $$\LaTex$$  
