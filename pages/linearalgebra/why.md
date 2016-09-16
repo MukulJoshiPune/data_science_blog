@@ -15,4 +15,6 @@ In Data Science, you typically work with features of the data. Feature is an ind
 
 Lets take another example, social network or web. It basically has a graph structure. Where friendship or hyperlink is the edge connecting people or pages. How do you represent a graph as a data structure ? An adjacency matrix. You now need Linear Algebra again. 
 
-These are just very simple examples. Just remember, there is not much moving ahead without understanding Linear Algebra at basic level. However if you take a bit of efforts and gain a better understanding you will enjoy your data science journey as a lot of math will be clear to you. If you want to work deep in data science research and your goal is to write a machine learning research paper some day, understanding it at an Expert level is a must.          
+These are just very simple examples. Just remember, there is not much moving ahead without understanding Linear Algebra at basic level. If you are still in doubt and have a lot of time to understand where engineers and scientists use it, go through [this reditt thread](https://www.reddit.com/r/askscience/comments/2ozkcv/whats_the_point_of_linear_algebra/)
+
+However if you take a bit of efforts and gain a better understanding you will enjoy your data science journey as a lot of math will be clear to you. If you want to work deep in data science research and your goal is to write a machine learning research paper some day, understanding it at an Expert level is a must.          
