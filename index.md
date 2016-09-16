@@ -19,4 +19,13 @@ If you find any interesting pointer that you think will be useful for the frater
 Linear Algebra
 --------------
 
+If you are new to Linear Algebra or you don't remember your college mathematics. Please go through all these in a sequence. 
+
+Basics
+: [Why should I know Linear Algebra?](pages/linearalgebra/why.html)
+: An excellent short video course that lets you visually understand the [secret sauce magic.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 
+
+Intermediate:
+:  
+
 ---
