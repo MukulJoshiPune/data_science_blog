@@ -29,4 +29,9 @@ Intermediate:
 :  
 ---
 
-This site uses [kramdown](http://kramdown.gettalong.org/) and \$$ \LaTex $$  
+This site uses [kramdown](http://kramdown.gettalong.org/) and 
+$$ 
+\begin{align*}
+\LaTex 
+\end{align*}
+$$  
